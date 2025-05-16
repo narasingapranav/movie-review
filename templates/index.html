@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Movie Sentiment Analysis</title>
+    <style>
+        body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: #eef2f7;
+        margin: 0;
+        padding: 40px 20px;
+        display: flex;
+        justify-content: center;
+        min-height: 100vh;
+        color: #333;
+    }
+    .container {
+        background: white;
+        width: 450px;
+        padding: 30px 40px;
+        border-radius: 12px;
+        box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+        text-align: center;
+    }
+    h1 {
+        margin-bottom: 30px;
+        font-weight: 700;
+        font-size: 2.2rem;
+        color: #2c3e50;
+    }
+    label {
+        display: block;
+        text-align: left;
+        margin-bottom: 8px;
+        font-weight: 600;
+        color: #34495e;
+        font-size: 0.95rem;
+    }
+    input[type="text"],
+    textarea {
+        width: 100%;
+        padding: 12px 15px;
+        margin-bottom: 20px;
+        border: 1.8px solid #bdc3c7;
+        border-radius: 8px;
+        font-size: 1rem;
+        transition: border-color 0.3s ease;
+        resize: vertical;
+        box-sizing: border-box;
+        color: #2c3e50;
+    }
+    input[type="text"]:focus,
+    textarea:focus {
+        outline: none;
+        border-color: #2980b9;
+        box-shadow: 0 0 8px rgba(41, 128, 185, 0.3);
+    }
+    textarea {
+        min-height: 100px;
+    }
+    button {
+        background: #2980b9;
+        border: none;
+        color: white;
+        padding: 14px 0;
+        width: 100%;
+        font-size: 1.1rem;
+        font-weight: 600;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: background 0.3s ease;
+        margin-top: 10px;
+        box-shadow: 0 5px 10px rgba(41,128,185,0.3);
+    }
+    button:hover {
+        background: #1c5980;
+    }
+    .result {
+        margin-top: 30px;
+        font-size: 1.3rem;
+        font-weight: 700;
+    }
+    table {
+        margin: 30px auto 0;
+        width: 100%;
+        border-collapse: separate;
+        border-spacing: 0 8px;
+        font-size: 0.9rem;
+        box-shadow: 0 0 15px rgba(0,0,0,0.05);
+    }
+    th, td {
+        padding: 14px 12px;
+        background: #f9f9f9;
+        text-align: left;
+        border-radius: 6px;
+    }
+    th {
+        background: #2980b9;
+        color: white;
+        font-weight: 600;
+        letter-spacing: 0.05em;
+    }
+    td {
+        color: #34495e;
+    }
+    /* Sentiment colors */
+    .Positive {
+        color: #27ae60;
+        font-weight: 700;
+    }
+    .Negative {
+        color: #c0392b;
+        font-weight: 700;
+    }
+    .Neutral {
+        color: #7f8c8d;
+        font-weight: 700;
+    }
+    .Disaster {
+        color: #8e44ad;
+        font-weight: 700;
+    }
+    .link-btn {
+        margin-top: 20px;
+        display: inline-block;
+        color: #2980b9;
+        text-decoration: none;
+        font-weight: 600;
+        transition: color 0.3s ease;
+    }
+    .link-btn:hover {
+        color: #1c5980;
+        text-decoration: underline;
+    }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Movie Sentiment Analysis</h1>
+        <form method="post">
+            <label for="movie">Movie Name</label>
+            <input type="text" id="movie" name="movie" placeholder="Enter movie name" required />
+            
+            <label for="review">Review</label>
+            <textarea id="review" name="review" placeholder="Write your review here" required></textarea>
+            
+            <button type="submit">Analyze</button>
+        </form>
+
+        {% if prediction %}
+            <div class="result">Predicted Sentiment: <span class="{{ prediction }}">{{ prediction }}</span></div>
+        {% endif %}
+
+        <a href="/movie_reviews" class="link-btn">See Movie Reviews</a>
+
+        {% if past_reviews %}
+            <h2>Past Reviews</h2>
+            <table>
+                <thead>
+                    <tr><th>Movie</th><th>Review</th><th>Sentiment</th></tr>
+                </thead>
+                <tbody>
+                {% for r in past_reviews %}
+                    <tr>
+                        <td>{{ r['Movie'] }}</td>
+                        <td>{{ r['Review'] }}</td>
+                        <td class="{{ r['Sentiment'] }}">{{ r['Sentiment'] }}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        {% endif %}
+    </div>
+</body>
+</html>
