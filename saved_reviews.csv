@@ -1,2 +1,305 @@
 Movie,Review,Sentiment
-
+gule bakavali katha,"good movie all vitalacharya setting nice",Positive
+chavva,excellent,Positive
+sye,neutral,Positive
+sye,good,Positive
+sye,ok,Positive
+sye,bad,Negative
+prema katha chitram,average,Neutral
+annamayya,excellent,Positive
+robin hood,disaster,Neutral
+robin hood,disaster,Neutral
+robin hood,disaster,Negative
+robin hood,worst,Negative
+robin hood,disaster,Neutral
+annamayya,superb,Positive
+annamayya,super,Neutral
+annamayya,excellent,Positive
+gamechanger,bad,Negative
+dhamaka,ok,Neutral
+Pathala Bhairavi,Brilliant performances,Positive
+Mayabazar,Great soundtrack,Positive
+Missamma,Too long and slow,Negative
+Gundamma Katha,Fresh and entertaining,Positive
+Devadasu,Lacked depth,Neutral
+Mooga Manasulu,Brilliant performances,Positive
+Sankarabharanam,Lacked depth,Neutral
+Maya Bazaar,Predictable plot,Negative
+Bhakta Prahlada,Brilliant performances,Positive
+Sati Savitri,Engaging and emotional,Positive
+Lava Kusa,Visually stunning,Positive
+Nartanasala,A timeless classic,Positive
+Tenali Ramakrishna,Lacked depth,Neutral
+Chandirani,Heartwarming story,Positive
+Dr. Chakravarthy,Predictable plot,Negative
+Sagara Sangamam,Average experience,Neutral
+Swathi Muthyam,Below expectations,Negative
+Shiva,Engaging and emotional,Positive
+Geethanjali,Fresh and entertaining,Positive
+Jagadeka Veerudu Athiloka Sundari,Below expectations,Negative
+Kshana Kshanam,Great soundtrack,Positive
+Annamayya,Average experience,Neutral
+Nuvve Kavali,Engaging and emotional,Positive
+Tholi Prema,Brilliant performances,Positive
+Preminchukundam Raa,Visually stunning,Positive
+Sankarabharanam,Visually stunning,Positive
+Aditya 369,A timeless classic,Positive
+Gang Leader,Disappointing ending,Negative
+Hello Brother,Visually stunning,Positive
+Narasimha Naidu,Overrated,Negative
+Okkadu,Lacked depth,Neutral
+Athadu,Too long and slow,Negative
+Pokiri,Below expectations,Negative
+Bommarillu,Lacked depth,Neutral
+Happy Days,Disappointing ending,Negative
+Magadheera,A timeless classic,Positive
+Arya,Heartwarming story,Positive
+Nuvvostanante Nenoddantana,Great soundtrack,Positive
+Anand,Heartwarming story,Positive
+Manmadhudu,Average experience,Neutral
+Chandamama,Too long and slow,Negative
+Yamadonga,Disappointing ending,Negative
+Desamuduru,Fresh and entertaining,Positive
+Boys,Great soundtrack,Positive
+Varsham,Visually stunning,Positive
+Baahubali: The Beginning,Engaging and emotional,Positive
+Baahubali 2: The Conclusion,Fresh and entertaining,Positive
+Eega,Disappointing ending,Negative
+Arjun Reddy,A timeless classic,Positive
+Rangasthalam,Brilliant performances,Positive
+Mahanati,Disappointing ending,Negative
+Jersey,Masterpiece,Positive
+Fidaa,Lacked depth,Neutral
+Pelli Choopulu,Heartwarming story,Positive
+Ala Modalaindi,Engaging and emotional,Positive
+Bharat Ane Nenu,A timeless classic,Positive
+Srimanthudu,Disappointing ending,Negative
+Temper,Heartwarming story,Positive
+Race Gurram,Below expectations,Negative
+Attarintiki Daredi,Predictable plot,Negative
+RRR,Great soundtrack,Positive
+Pushpa: The Rise,Great soundtrack,Positive
+Ala Vaikunthapurramuloo,Lacked depth,Neutral
+Vakeel Saab,A timeless classic,Positive
+Love Story,Great soundtrack,Positive
+Uppena,Engaging and emotional,Positive
+Jathi Ratnalu,Fresh and entertaining,Positive
+Sarkaru Vaari Paata,Brilliant performances,Positive
+Bheemla Nayak,Visually stunning,Positive
+Major,Overrated,Negative
+Shyam Singha Roy,Heartwarming story,Positive
+Karthikeya 2,Fresh and entertaining,Positive
+Dasara,Masterpiece,Positive
+Virata Parvam,Brilliant performances,Positive
+Ante Sundaraniki,Average experience,Neutral
+Agent,Masterpiece,Negative
+Veera Simha Reddy,Too long and slow,Negative
+Waltair Veerayya,Visually stunning,Positive
+Bhola Shankar,Disappointing ending,Positive
+Skanda,Engaging and emotional,Positive
+Salaar,Overrated,Negative
+Kushi,Lacked depth,Negative
+BRO,Average experience,Negative
+Samajavaragamana,Masterpiece,Positive
+Ravanasura,Visually stunning,Neutral
+Das Ka Dhamki,Predictable plot,Negative
+18 Pages,Fresh and entertaining,Negative
+Dasara,Heartwarming story,Positive
+Meter,A timeless classic,Negative
+Custody,Heartwarming story,Positive
+Virupaksha,Too long and slow,Positive
+Baby,Fresh and entertaining,Positive
+Pakka Commercial,Masterpiece,Negative
+Thank You,Overrated,Positive
+GodFather,Engaging and emotional,Positive
+The Ghost,Too long and slow,Positive
+Major,Heartwarming story,Positive
+Goodachari,Brilliant performances,Positive
+Saaho,Below expectations,Positive
+Prabhas 20,Visually stunning,Positive
+Radhe Shyam,Visually stunning,Neutral
+Chitralahari,Too long and slow,Negative
+Hello,Brilliant performances,Positive
+Raja the Great,Average experience,Negative
+LIE,Average experience,Negative
+Maharshi,Predictable plot,Negative
+Nani's Gang Leader,Great soundtrack,Negative
+Krack,Predictable plot,Positive
+Vikramarkudu,Fresh and entertaining,Negative
+Bimbisara,Heartwarming story,Positive
+Sita Ramam,Lacked depth,Negative
+Hit: The First Case,Heartwarming story,Neutral
+Hit: The Second Case,Disappointing ending,Neutral
+Aswathama,Predictable plot,Negative
+Karthikeya,Fresh and entertaining,Positive
+Aravinda Sametha,Below expectations,Negative
+Dhruva,A timeless classic,Negative
+Bheeshma,Predictable plot,Negative
+Disco Raja,Masterpiece,Negative
+Dear Comrade,Overrated,Negative
+Taxiwaala,Below expectations,Negative
+Agent Sai Srinivasa Athreya,Predictable plot,Positive
+Majili,Fresh and entertaining,Positive
+Good Luck Sakhi,Overrated,Positive
+V,Great soundtrack,Positive
+Ranarangam,Average experience,Neutral
+World Famous Lover,Disappointing ending,Negative
+Solo Brathuke So Better,A timeless classic,Positive
+Most Eligible Bachelor,Masterpiece,Negative
+Middle Class Melodies,Predictable plot,Negative
+SR Kalyanamandapam,Engaging and emotional,Positive
+Love Today,Heartwarming story,Positive
+Ori Devuda,Predictable plot,Neutral
+Kantara,Too long and slow,Negative
+Godse,Great soundtrack,Positive
+Pelli SandaD,Below expectations,Positive
+Khiladi,Brilliant performances,Positive
+Rowdy Boys,Fresh and entertaining,Negative
+Ashoka Vanamlo Arjuna Kalyanam,Engaging and emotional,Negative
+Nene Vasthunna,A timeless classic,Neutral
+Sholay,Masterpiece,Positive
+Dilwale Dulhania Le Jayenge,A timeless classic,Positive
+3 Idiots,Heartwarming story,Positive
+Lagaan,Engaging and emotional,Positive
+Dangal,Brilliant performances,Positive
+PK,Fresh and entertaining,Positive
+Taare Zameen Par,Heartwarming story,Positive
+Kabhi Khushi Kabhie Gham,Visually stunning,Positive
+Kal Ho Naa Ho,Engaging and emotional,Positive
+Barfi!,Brilliant performances,Positive
+Zindagi Na Milegi Dobara,Fresh and entertaining,Positive
+Andaz Apna Apna,A timeless classic,Positive
+Queen,Heartwarming story,Positive
+Gully Boy,Great soundtrack,Positive
+Kahaani,Engaging and emotional,Positive
+Article 15,Masterpiece,Positive
+Drishyam,Engaging and emotional,Positive
+A Wednesday,Brilliant performances,Positive
+Piku,Fresh and entertaining,Positive
+Swades,Masterpiece,Positive
+Chak De! India,Heartwarming story,Positive
+Munna Bhai M.B.B.S.,Fresh and entertaining,Positive
+Bajrangi Bhaijaan,Engaging and emotional,Positive
+Black,Brilliant performances,Positive
+Tumbbad,Visually stunning,Positive
+Stree,Great soundtrack,Positive
+Raazi,Masterpiece,Positive
+Tamasha,Heartwarming story,Positive
+Neerja,Engaging and emotional,Positive
+Haider,Brilliant performances,Positive
+Badhaai Ho,Fresh and entertaining,Positive
+Mimi,Heartwarming story,Positive
+Paa,Brilliant performances,Positive
+Udaan,Masterpiece,Positive
+Rockstar,Great soundtrack,Positive
+Jab We Met,Fresh and entertaining,Positive
+My Name is Khan,Engaging and emotional,Positive
+Pad Man,Heartwarming story,Positive
+The Lunchbox,Brilliant performances,Positive
+Talvar,Engaging and emotional,Positive
+Masaan,Masterpiece,Positive
+Manmarziyaan,Fresh and entertaining,Positive
+Pink,Heartwarming story,Positive
+Super 30,Brilliant performances,Positive
+Dil Chahta Hai,A timeless classic,Positive
+Kesari,Visually stunning,Positive
+Bhool Bhulaiyaa,Great soundtrack,Positive
+Airlift,Masterpiece,Positive
+Bhaag Milkha Bhaag,Brilliant performances,Positive
+Shershaah,Engaging and emotional,Positive
+Badhai Do,Fresh and entertaining,Positive
+The Kashmir Files,Brilliant performances,Positive
+Kantara,Masterpiece,Positive
+96,Heartwarming story,Positive
+Drishyam,Masterpiece,Positive
+Sairat,Engaging and emotional,Positive
+Lucia,Fresh and entertaining,Positive
+Super Deluxe,Brilliant performances,Positive
+Ustad Hotel,Heartwarming story,Positive
+Court,Masterpiece,Positive
+Charlie,Visually stunning,Positive
+Jallikattu,Great soundtrack,Positive
+Kumbalangi Nights,Brilliant performances,Positive
+Asuran,Engaging and emotional,Positive
+C U Soon,Fresh and entertaining,Positive
+Joji,Brilliant performances,Positive
+The Great Indian Kitchen,Masterpiece,Positive
+Arjun Reddy,Controversial yet impactful,Neutral
+Pather Panchali,A timeless classic,Positive
+Antaheen,Heartwarming story,Positive
+Sahaj Paather Gappo,Brilliant performances,Positive
+Sairat,Visually stunning,Positive
+Radhe,Below expectations,Negative
+Race 3,Disaster,Negative
+Thugs of Hindostan,Visually stunning but hollow,Negative
+Zero,Too long and slow,Negative
+Laal Singh Chaddha,Disappointing adaptation,Negative
+Jaani Dushman,Unintentionally funny,Disaster
+Ram Gopal Varma Ki Aag,Masterpiece in failure,Disaster
+Love Story 2050,Confusing plot,Disaster
+Ra.One,Visually stunning but weak story,Negative
+Kites,Lost potential,Neutral
+Fan,Brilliant concept poorly executed,Neutral
+Besharam,Flat humor,Negative
+Himmatwala,Overhyped remake,Disaster
+Action Replayy,Too long and slow,Negative
+Bombay Velvet,Disappointing ending,Negative
+Drona,Lacked depth,Negative
+Blue,Visually stunning but boring,Neutral
+Roy,Too long and slow,Negative
+Jab Harry Met Sejal,Confusing storyline,Negative
+Baar Baar Dekho, poor execution,Negative
+Kalank, but lacks soul,Neutral
+Baaghi 3,Over the top,Negative
+Heropanti 2,Unrealistic action,Negative
+Satyameva Jayate 2,Preachy and loud,Negative
+Street Dancer 3D,Visually rich but  weak story,Neutral
+Ek Paheli Leela,Predictable plot,Negative
+Happy New Year,Star-studded but empty,Neutral
+Khaali Peeli,Average experience,Neutral
+Drive,Confusing narrative,Negative
+Nikamma,Overacted and loud,Disaster
+Radhe Shyam,Predictable plot,Negative
+Liger,Unrealistic and loud,Disaster
+Shaandaar, dull story,Negative
+Brahmastra, lacking depth,Neutral
+Adipurush,Weak VFX and dialogues,Negative
+Mohenjo Daro,Historically inaccurate,Negative
+Detective Byomkesh Bakshy,Interesting premise, Neutral
+Gunday,Entertaining but flawed,Neutral
+Tees Maar Khan,Lacked depth,Disaster
+Joker,Unintentional comedy,Disaster
+Players,Predictable heist film,Negative
+Anek,Confused messaging,Negative
+Tara vs Bilal,Too long and slow,Neutral
+The Zoya Factor,Flimsy concept,Negative
+Fitoor, weak story,Neutral
+Ok Jaanu,Average experience,Neutral
+Katti Batti,Emotionally inconsistent,Negative
+Bhoot Returns,Not scary at all,Disaster
+Game,Twisty but hollow,Neutral
+No Smoking,Abstract and inaccessible,Neutral
+Love Aaj Kal 2,Too much nostalgia,Negative
+Jhund,Great message but  poor pacing,Neutral
+Bhoomi,Overdone melodrama,Negative
+Sadak 2,Disaster,Disaster
+Beast,Below expectations,Negative
+Cobra,Confusing narrative,Negative
+Bheemla Nayak,Too loud,Negative
+Sita Ramam,Visually rich but slow,Neutral
+Don,Heartwarming moments,Neutral
+Yashoda,Interesting premise,Neutral
+Agent,Disaster,Disaster
+Varisu,Predictable plot,Negative
+Veera Simha Reddy,Too long and slow,Negative
+KGF Chapter 2, weak story,Neutral
+Pushpa 2 Expected,Overhyped,Neutral
+Macherla Niyojakavargam,Lacked logic,Negative
+Acharya,Below expectations,Disaster
+Annabelle Sethupathi,Not scary,Disaster
+Liger,Overacted,Disaster
+Amigos,Confusing,Negative
+Raavanan,Visually compelling,Neutral
+Yodha,Average experience,Neutral
+Ponniyin Selvan Part 2,Visually stunning,Neutral
+Pathaan,Entertaining but over the top,Neutral
